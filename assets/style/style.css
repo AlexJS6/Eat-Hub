@@ -32,3 +32,12 @@ body {
     margin-right: -25px;
 }
 /* index.html css finished*/
+
+
+/*order pages css*/
+
+.header, .border, .page-footer {
+    font-family: 'Comfortaa', cursive;
+}
+
+/*end order pages css*/
