@@ -108,7 +108,7 @@ On this second part we assigned four diffrent groups and each group had to work 
 
 ![capt2](https://user-images.githubusercontent.com/66479308/86367082-d8a65480-bc7b-11ea-9b00-ef86203735d9.jpg)
 * on this pic you can see the header and a part of the body
-![captfoot](https://user-images.githubusercontent.com/66479308/86366970-be6c7680-bc7b-11ea-8ffa-3962436d36d2.png)
+![rsz_captfoot (1)](https://user-images.githubusercontent.com/66479308/86372008-ea8af600-bc81-11ea-85b5-566fbfeb42f8.png)
 * on this pic you can see our footer   
    
       
