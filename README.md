@@ -7,7 +7,7 @@ Team challenge: **14**
 
 # **Welcome to our Eat-Hub Delivery plateform project.**  
   
-
+[Eat-Hub](https://alexjs6.github.io/Eat-Hub/)
 
 | ++ | + | The Dream Team | + | ++ |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -52,7 +52,7 @@ correct tag.
 
 # **The New Mission (Team Work)**  
 
-**In first place** :cofee:       
+**In first place** :coffee:       
  we had to assign each member of the team to a task.  
 
 We decided to work in small groups for a better management of time. 
@@ -100,7 +100,7 @@ This are differents photos of our creation process :
 * on the fifth picture you can see the page where you can pay and track your order.   
 
  **Second part**:hamburger:   
-Son on this second part we assigned four diffrent groups and each group had to work on an index page. Here are some screenshots to help you undertand our work.   
+On this second part we assigned four diffrent groups and each group had to work on an index page. Here are some screenshots to help you undertand our work.   
    
 | ++ | + | 1st Team | + | ++ |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -109,15 +109,16 @@ Son on this second part we assigned four diffrent groups and each group had to w
 | Alex | :bust_in_silhouette: | - |Body  | - |   
 
 ![capt2](https://user-images.githubusercontent.com/66479308/86367082-d8a65480-bc7b-11ea-9b00-ef86203735d9.jpg)
-* on this pic you can see the header and a part of the body
-![captfoot](https://user-images.githubusercontent.com/66479308/86366970-be6c7680-bc7b-11ea-8ffa-3962436d36d2.png)
+* on this pic you can see the header and a part of the body  
+
+![rsz_captfoot (1)](https://user-images.githubusercontent.com/66479308/86372008-ea8af600-bc81-11ea-85b5-566fbfeb42f8.png)
 * on this pic you can see our footer   
    
       
 | ++ | + | 2nd Team | + | ++ |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Grace | :bust_in_silhouette: | - | order page  | - | 
-| Ashley | :bust_in_silhouette: | - | orderpage  | - |
+| Noémie | :bust_in_silhouette: | - | order page  | - |
 | Nicolas | :bust_in_silhouette: | - |order page | - |   
 
 ![capt3](https://user-images.githubusercontent.com/66479308/86367824-bb25ba80-bc7c-11ea-9efb-cdb705e97d2b.jpg)
@@ -137,16 +138,16 @@ Son on this second part we assigned four diffrent groups and each group had to w
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Résa | :bust_in_silhouette: | - | tracking/payement  | - | 
 | Eugenie | :bust_in_silhouette: | - | tracking/payement | - |
-| Bastien| :bust_in_silhouette: | - |tracking/payement | - |   
-   
-![capt4](https://user-images.githubusercontent.com/66479308/86369188-5f5c3100-bc7e-11ea-9f72-bd3b476137bf.jpg)
-* Tracking page
-![capt5](https://user-images.githubusercontent.com/66479308/86369258-74d15b00-bc7e-11ea-90f3-d1f13b65aa36.jpg)  
-* Payement page
+| Bastien| :bust_in_silhouette: | - |tracking/payement | - |     
 
-**Now cheque out our website**
+![capt4](https://user-images.githubusercontent.com/66479308/86369188-5f5c3100-bc7e-11ea-9f72-bd3b476137bf.jpg)   
+* Tracking page    
+![capt5](https://user-images.githubusercontent.com/66479308/86369258-74d15b00-bc7e-11ea-90f3-d1f13b65aa36.jpg)       
+* Payement page  
 
-[bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
+**Now check out our website** [Eat-Hub](https://alexjs6.github.io/Eat-Hub/) :beers: :cocktail:
+
+![bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
    
 
 
