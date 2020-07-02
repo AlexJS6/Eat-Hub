@@ -98,7 +98,7 @@ This are differents photos of our creation process :
 * on the fifth picture you can see the page where you can pay and track your order.   
 
  **Second part**:hamburger:   
-Son on this second part we assigned four diffrent groups and each group had to work on an index page. Here are some screenshots to help you undertand our work.   
+On this second part we assigned four diffrent groups and each group had to work on an index page. Here are some screenshots to help you undertand our work.   
    
 | ++ | + | 1st Team | + | ++ |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -135,8 +135,7 @@ Son on this second part we assigned four diffrent groups and each group had to w
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Résa | :bust_in_silhouette: | - | tracking/payement  | - | 
 | Eugenie | :bust_in_silhouette: | - | tracking/payement | - |
-| Bastien| :bust_in_silhouette: | - |tracking/payement | - |   
-   
+| Bastien| :bust_in_silhouette: | - |tracking/payement | - |      
 ![capt4](https://user-images.githubusercontent.com/66479308/86369188-5f5c3100-bc7e-11ea-9f72-bd3b476137bf.jpg)
 * Tracking page
 ![capt5](https://user-images.githubusercontent.com/66479308/86369258-74d15b00-bc7e-11ea-90f3-d1f13b65aa36.jpg)  
@@ -144,7 +143,7 @@ Son on this second part we assigned four diffrent groups and each group had to w
 
 **Now cheque out our website**
 
-[bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
+![bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
    
 
 
