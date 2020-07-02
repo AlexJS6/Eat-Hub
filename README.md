@@ -50,7 +50,7 @@ correct tag.
 
 # **The New Mission (Team Work)**  
 
-[X] **In first place**
+[X] **In first place**    
  we had to assign each member of the team to a task.  
 
 We decided to work in small groups for a better management of time. 
