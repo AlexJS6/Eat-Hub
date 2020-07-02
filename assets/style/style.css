@@ -1,0 +1,34 @@
+/* index.html CSS*/
+@font-face {
+    font-family: Comfortaa;
+    src: url(../Font/Comfortaa-Regular.ttf);
+}
+body {
+    font-family: Comfortaa;
+}
+.blue-color,.card-body, .header, .navbar {
+    background-color: #4ea0b4;
+}
+.checkout {
+    margin-top: 35px;
+}
+.search_image {
+    border-radius: 60%;
+}
+.my_h1 {
+    font-size: 340%;
+}
+.my_h3 {
+    font-size: 300%;
+}
+.my_h2 {
+    font-size: 270;
+}
+.bg_pizza {
+    position: absolute;
+    margin-top: -217px;
+    z-index: -1;
+    margin-left: -17px;
+    margin-right: -25px;
+}
+/* index.html css finished*/
