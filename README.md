@@ -50,7 +50,8 @@ correct tag.
 
 # **The New Mission (Team Work)**  
 
-In first place, we had to assign each member of the team to a task.  
+[X] **In first place**
+ we had to assign each member of the team to a task.  
 
 We decided to work in small groups for a better management of time. 
 
@@ -95,3 +96,7 @@ This are differents photos of our creation process :
 * on the fourth picture you can see the page where you can place and see the details of your order.   
 ![Eathub 2JPG](https://user-images.githubusercontent.com/62213192/86249925-340b1080-bbb0-11ea-94a3-20585a6cb596.jpg)
 * on the fifth picture you can see the page where you can pay and track your order.
+
+[X] Second part
+
+
