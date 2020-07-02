@@ -116,7 +116,7 @@ On this second part we assigned four diffrent groups and each group had to work 
 | ++ | + | 2nd Team | + | ++ |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Grace | :bust_in_silhouette: | - | order page  | - | 
-| Noémie | :bust_in_silhouette: | - | orderpage  | - |
+| Noémie | :bust_in_silhouette: | - | order page  | - |
 | Nicolas | :bust_in_silhouette: | - |order page | - |   
 
 ![capt3](https://user-images.githubusercontent.com/66479308/86367824-bb25ba80-bc7c-11ea-9efb-cdb705e97d2b.jpg)
