@@ -1,367 +1,464 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-       <!-- Required meta tags -->
-       <meta charset="UTF-8">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-       <meta name="description" content="Hub restaurants">
-       <meta name="keywords" content="HTML, CSS, Framework Bootstrap CDN">
-       <meta name="author" content="Team Becode">
-       <!-- Bootstrap CSS -->
-       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
-       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-       <!--font-awesome-->
-       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-       <!-- CSS -->
-       <link rel="stylesheet" href="style.css">
-       <title>Restaurants list</title>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="description" content="Hub restaurants">
+  <meta name="keywords" content="HTML, CSS, Framework Bootstrap CDN">
+  <meta name="author" content="Team Becode">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <!--font-awesome-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+  <title>Restaurants list</title>
 </head>
+
 <body>
-    <section class="container-fluid">
-      <!-- Navbar filtres-->
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand active" href="resto.html">Filtres</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="resto1.html">Terroir/Burger</a>
+  <section class="container-fluid">
+    <!-- Navbar filtres-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand active" href="resto.html">Filtres</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="resto1.html">Terroir/Burger</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="resto2.html">Healthy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="resto3.html">African</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="resto4.html">Asian</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+    <!--end navbar-->
+    <section class="row">
+
+      <!--code card 1 ALEX-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-Polacy.jpg" class="card-img-top" alt="Photo polacy">
+        <div class="card-body">
+          <h5 class="card-title">Polacy</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Terroir</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://alexjs6.github.io/restaurant-css-framework/index.html" class="card-link">Link</a>
+          <a href="Polacy-Commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 2 SEB-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-seb.jpg" class="card-img-top" alt="photo Terroir Burger">
+        <div class="card-body">
+          <h5 class="card-title">Du Côté de chez Seb</h5>
+          <p class="card-text">Là où bonheur et bonne cuisine se rencontrent</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Terroir Burger</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-half-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://meuniers.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="Ducotedechezseb-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 3 KEVIN-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-spicy.jpg" class="card-img-top" alt="Photo Le No Spicy">
+        <div class="card-body">
+          <h5 class="card-title">Le No Spicy</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Terroir BBQ</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://schoenaerskevin.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="Lenospicy-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+    </section>
+    <section class="row">
+
+      <!--code card 4 SOUFIANE-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-healthy.jpg" class="card-img-top" alt="Photo Pause Healthy">
+        <div class="card-body">
+          <h5 class="card-title"> Pause Healthy </h5>
+          <p class="card-text"> You are what you eat! </p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Cafe Healthy</li>
+          <li class="list-group-item">
+            <i class="fa fa-star-half-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://soufianecode.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="Pausehealthy-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 5 RESA-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-vibes.jpg" class="card-img-top" alt="Photo Vibe's Restaurant">
+        <div class="card-body">
+          <h5 class="card-title">Vibe's Restaurants</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Asian</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://resdev27.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="vibes-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 6 EUGENIE-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-matoke.jpg" class="card-img-top" alt="Photo Matoke">
+        <div class="card-body">
+          <h5 class="card-title">Matoke Restaurant</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">African Cafe</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://eugeniejessica.github.io/restaurant-css-framework/index.html" class="card-link">Link</a>
+          <a href="matoke-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+    </section>
+    <section class="row">
+
+      <!--code card 7 : MattNannetti-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-thing.jpg" class="card-img-top" alt="Photo The Thing">
+        <div class="card-body">
+          <h5 class="card-title">The Thing</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Burger Veggie</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://mattnannetti.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="commande-thething.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 8 : OlivierPeeters-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-BestBurger.jpg" class="card-img-top" alt="Photo BEST BURGER">
+        <div class="card-body">
+          <h5 class="card-title">BEST BURGER</h5>
+          <p class="card-text">
+            Le meilleur ... tout simplement
+          </p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Burger</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://olivierpeeters73.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="BestBurger-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 9 : NoemieUylenbroeck-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-Authégourmand.jpg" class="card-img-top" alt="Photo Au Thé gourmand">
+        <div class="card-body">
+          <h5 class="card-title">Au thé gourmand</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Sandwich Cafe Healthy</li>
+          <li class="list-group-item">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+            <i class="fa fa-star-o" aria-hidden="true"></i>
+          </li>
+        </ul>
+        <div class="card-body">
+          <a href="https://noemieuylenbroeck.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="Authégourmand-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+    </section>
+    <section class="row">
+
+      <!--code card 10-->
+      <!--bastien-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-Healthytiser.jpg" class="card-img-top" alt="Photo Healthytiser">
+        <div class="card-body">
+          <h5 class="card-title">Healthytiser </h5>
+          <p class="card-text">Healthytiser is a new kind of restaurant which is offering REAL dietary and proteined
+            meals for divers occasions : regime, training, breakfast, dinner,.... </p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Healthy</li>
+          <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star"
+              aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
+              aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
+        </ul>
+        <div class="card-body">
+          <a href="https://loonyt.github.io/restaurant-css-framework/" class="card-link">Link </a>
+          <a href="Healthytiser-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 11-->
+      <!--nicolas-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-hachi.jpg" class="card-img-top" alt="Photo Hachi">
+        <div class="card-body">
+          <h5 class="card-title">Hachi</h5>
+          <p class="card-text">.</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Asian</li>
+          <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star"
+              aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
+              aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
+        </ul>
+        <div class="card-body">
+          <a href="https://nicolassaeys.github.io/restaurant-css-framework/" class="card-link">Link</a>
+          <a href="hachi-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+      <!--code card 12-->
+      <!--Max-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-Raccon.jpg" class="card-img-top" alt="Photo Raccon">
+        <div class="card-body">
+          <h5 class="card-title">Raccon</h5>
+          <p class="card-text">.</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Tapas Terroir</li>
+          <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star"
+              aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
+              aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
+        </ul>
+        <div class="card-body">
+          <a href="https://pierremaximilien.github.io/restaurant-css-framework/" class="card-link">Link </a>
+          <a href="Raccon-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+    </section>
+    <section class="row">
+
+      <!--code card 13-->
+      <!--grace-->
+      <div class="card col-12 col-lg-4" style="width: 18rem;">
+        <img src="assets/images/photo-saveurs.jpg" class="card-img-top" alt="Photo Saveurs d'ailleurs">
+        <div class="card-body">
+          <h5 class="card-title">Saveurs d'ailleurs</h5>
+          <p class="card-text">One cannot think well, love well, sleep well, if one has not dined well..</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">African</li>
+          <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star"
+              aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
+              aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
+        </ul>
+        <div class="card-body">
+          <a href="https://graceabalisa.github.io/restaurant-css-framework/" class="card-link">Link </a>
+          <a href="Saveursdailleurs-commande.html" class="card-link">Order</a>
+        </div>
+      </div>
+      <!--code card end-->
+
+    </section>
+  </section>
+  <!--FOOTER - Max-->
+  <footer class="page-footer">
+    <div class="container-fluid blue-color">
+      <div class="row py-4">
+
+        <div class="col-3 offset-2">
+
+          <!--visible tous le temps-->
+          <ul class="list-unstyled list-inline">
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/" class="fa fa-facebook text-light"></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="resto2.html">Healthy</a>
+            <li class="list-inline-item">
+              <a href="https://twitter.com/explore" class="fa fa-twitter text-light"></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="resto3.html">African</a>
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com" class="fa fa-linkedin text-light"></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="resto4.html">Asian</a>
+            <li class="list-inline-item">
+              <a href="https://www.instagram.com/" class="fa fa-instagram text-light"></a>
             </li>
           </ul>
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
         </div>
-      </nav>
-      <!--end navbar-->
-        <section class="row">
+        <div class="col-2">
+          <div class="footer-copyright text-light py-2">
+            © 2020 Copyright:
+          </div>
+        </div>
 
-          <!--code card 1 ALEX-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-Polacy.jpg" class="card-img-top" alt="Photo polacy">
-            <div class="card-body">
-                <h5 class="card-title">Polacy</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Terroir</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://alexjs6.github.io/restaurant-css-framework/index.html" class="card-link">Link</a>
-              <a href="Polacy-Commande.html" class="card-link">Order</a>
+
+        <!--bouton clicable-->
+
+        <div class="col-3 offset-2">
+          <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapseExample"
+            aria-expanded="false" aria-controls="collapseExample">
+            Learn more!
+          </button>
+        </div>
+
+
+        <!--Non visible-->
+
+
+        <div class="collapse" id="collapseExample">
+          <div class="card card-body">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-4">
+                  <h1 class="display-5">Découvrir Eat-Hub</h1>
+                  <p><a href="#" class="footer-link text-light">À propos</a></p>
+                  <p><a href="#" class="footer-link text-light">Blog Foodscene</a></p>
+                  <p><a href="#" class="footer-link text-light">Blog Tech</a></p>
+                  <p><a href="#" class="footer-link text-light">Blog Design</a></p>
+                  <p><a href="#" class="footer-link text-light">Nous rejoindre</a></p>
+                  <p><a href="#" class="footer-link text-light">Inscription restaurant</a></p>
+                  <p><a href="#" class="footer-link text-light">Devenez livreur</a></p>
+                </div>
+                <div class="col-4">
+                  <h1 class="display-5">Mentions légales</h1>
+                  <p><a href="#" class="footer-link text-light">Mentions légales</a></p>
+                  <p><a href="#" class="footer-link text-light">Confidentialité</a></p>
+                  <p><a href="#" class="footer-link text-light">Cookies</a></p>
+                </div>
+                <div class="col-4">
+                  <h1 class="display-5">Aider</h1>
+                  <p><a href="#" class="footer-link text-light">Nous contacter</a></p>
+                  <p><a href="#" class="footer-link text-light">FAQ</a></p>
+                  <p><a href="#" class="footer-link text-light">Types de cuisine</a></p>
+                  <p><a href="#" class="footer-link text-light">Plan du site</a></p>
+                </div>
+              </div>
             </div>
           </div>
-          <!--code card end-->
-
-          <!--code card 2 SEB-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-seb.jpg" class="card-img-top" alt="photo Terroir Burger">
-            <div class="card-body">
-                <h5 class="card-title">Du Côté de chez Seb</h5>
-                <p class="card-text">Là où bonheur et bonne cuisine se rencontrent</p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Terroir Burger</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-half-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://meuniers.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="Ducotedechezseb-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 3 KEVIN-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-spicy.jpg" class="card-img-top" alt="Photo Le No Spicy">
-            <div class="card-body">
-                <h5 class="card-title">Le No Spicy</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Terroir BBQ</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://schoenaerskevin.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="Lenospicy-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-         
-        </section>
-        <section class="row">
-
-          <!--code card 4 SOUFIANE-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-healthy.jpg" class="card-img-top" alt="Photo Pause Healthy">
-            <div class="card-body">
-                <h5 class="card-title"> Pause Healthy </h5>
-                <p class="card-text"> You are what you eat! </p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Cafe Healthy</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star-half-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://soufianecode.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="Pausehealthy-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 5 RESA-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-vibes.jpg" class="card-img-top" alt="Photo Vibe's Restaurant">
-            <div class="card-body">
-                <h5 class="card-title">Vibe's Restaurants</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Asian</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://resdev27.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="vibes-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 6 EUGENIE-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-matoke.jpg" class="card-img-top" alt="Photo Matoke">
-            <div class="card-body">
-                <h5 class="card-title">Matoke Restaurant</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">African Cafe</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://eugeniejessica.github.io/restaurant-css-framework/index.html" class="card-link">Link</a>
-              <a href="matoke-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-         
-        </section>
-        <section class="row">
-
-          <!--code card 7 : MattNannetti-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-thing.jpg" class="card-img-top" alt="Photo The Thing">
-            <div class="card-body">
-                <h5 class="card-title">The Thing</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Burger Veggie</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://mattnannetti.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="commande-thething.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 8 : OlivierPeeters-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-BestBurger.jpg" class="card-img-top" alt="Photo BEST BURGER">
-            <div class="card-body">
-                <h5 class="card-title">BEST BURGER</h5>
-                <p class="card-text">
-                  Le meilleur ... tout simplement                 
-                </p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Burger</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://olivierpeeters73.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="BestBurger-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 9 : NoemieUylenbroeck-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-Authégourmand.jpg" class="card-img-top" alt="Photo Au Thé gourmand">
-            <div class="card-body">
-                <h5 class="card-title">Au thé gourmand</h5>
-                <p class="card-text"></p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Sandwich Cafe Healthy</li>
-                <li class="list-group-item">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                </li>
-              </ul>
-            <div class="card-body">
-              <a href="https://noemieuylenbroeck.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="Authégourmand-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-         
-        </section>
-        <section class="row">
-
-          <!--code card 10-->
-            <!--bastien-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-Healthytiser.jpg" class="card-img-top" alt="Photo Healthytiser">
-            <div class="card-body">
-                <h5 class="card-title">Healthytiser </h5>
-                <p class="card-text">Healthytiser is a new kind of restaurant which is offering REAL dietary and proteined meals for divers occasions : regime, training, breakfast, dinner,.... </p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Healthy</li>
-                <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
-              </ul>
-            <div class="card-body">
-              <a href="https://loonyt.github.io/restaurant-css-framework/" class="card-link">Link </a>
-              <a href="Healthytiser-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 11-->
-            <!--nicolas-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-hachi.jpg" class="card-img-top" alt="Photo Hachi">
-            <div class="card-body">
-                <h5 class="card-title">Hachi</h5>
-                <p class="card-text">.</p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Asian</li>
-                <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
-              </ul>
-            <div class="card-body">
-              <a href="https://nicolassaeys.github.io/restaurant-css-framework/" class="card-link">Link</a>
-              <a href="hachi-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-
-          <!--code card 12-->
-            <!--Max-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-Raccon.jpg" class="card-img-top" alt="Photo Raccon">
-            <div class="card-body">
-                <h5 class="card-title">Raccon</h5>
-                <p class="card-text">.</p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Tapas Terroir</li>
-                <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
-              </ul>
-            <div class="card-body">
-              <a href="https://pierremaximilien.github.io/restaurant-css-framework/" class="card-link">Link </a>
-              <a href="Raccon-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-         
-        </section>
-        <section class="row">
-
-          <!--code card 13-->
-            <!--grace-->
-          <div class="card col-12 col-lg-4" style="width: 18rem;">
-            <img src="assets/images/photo-saveurs.jpg" class="card-img-top" alt="Photo Saveurs d'ailleurs">
-            <div class="card-body">
-                <h5 class="card-title">Saveurs d'ailleurs</h5>
-                <p class="card-text">One cannot think well, love well, sleep well, if one has not dined well..</p>
-            </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">African</li>
-                <li class="list-group-item"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
-              </ul>
-            <div class="card-body">
-              <a href="https://graceabalisa.github.io/restaurant-css-framework/" class="card-link">Link </a>
-              <a href="Saveursdailleurs-commande.html" class="card-link">Order</a>
-            </div>
-          </div>
-          <!--code card end-->
-         
-        </section>
-    </section>
-    
-     <!-- Bootstrap JS -->
-     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!--Footer end-->
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+  </script>
 </body>
+
 </html>
