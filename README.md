@@ -52,7 +52,8 @@ correct tag.
 
 # **The New Mission (Team Work)**  
 
-In first place, we had to assign each member of the team to a task.  
+**In first place** :cofee:       
+ we had to assign each member of the team to a task.  
 
 We decided to work in small groups for a better management of time. 
 
@@ -96,4 +97,56 @@ This are differents photos of our creation process :
 * on the third picture you can see the page where you can choose the restaurant.
 * on the fourth picture you can see the page where you can place and see the details of your order.   
 ![Eathub 2JPG](https://user-images.githubusercontent.com/62213192/86249925-340b1080-bbb0-11ea-94a3-20585a6cb596.jpg)
-* on the fifth picture you can see the page where you can pay and track your order.
+* on the fifth picture you can see the page where you can pay and track your order.   
+
+ **Second part**:hamburger:   
+Son on this second part we assigned four diffrent groups and each group had to work on an index page. Here are some screenshots to help you undertand our work.   
+   
+| ++ | + | 1st Team | + | ++ |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| Matt | :bust_in_silhouette: | - | Header | - | 
+| Max | :bust_in_silhouette: | - | Footer  | - |
+| Alex | :bust_in_silhouette: | - |Body  | - |   
+
+![capt2](https://user-images.githubusercontent.com/66479308/86367082-d8a65480-bc7b-11ea-9b00-ef86203735d9.jpg)
+* on this pic you can see the header and a part of the body
+![captfoot](https://user-images.githubusercontent.com/66479308/86366970-be6c7680-bc7b-11ea-8ffa-3962436d36d2.png)
+* on this pic you can see our footer   
+   
+      
+| ++ | + | 2nd Team | + | ++ |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| Grace | :bust_in_silhouette: | - | order page  | - | 
+| Ashley | :bust_in_silhouette: | - | orderpage  | - |
+| Nicolas | :bust_in_silhouette: | - |order page | - |   
+
+![capt3](https://user-images.githubusercontent.com/66479308/86367824-bb25ba80-bc7c-11ea-9efb-cdb705e97d2b.jpg)
+* on this picture you see our order page in the making    
+   
+| ++ | + | 3rd Team | + | ++ |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| Sebastien | :bust_in_silhouette: | - | resto page  | - | 
+| Soufiane | :bust_in_silhouette: | - | resto page  | - |
+| Oliver | :bust_in_silhouette: | - | resto page | - | 
+| Kevin | :bust_in_silhouette: | - | resto page | - |     
+   
+![capt1](https://user-images.githubusercontent.com/66479308/86368700-c1686680-bc7d-11ea-8986-c7ae1a7d0188.jpg)  
+* Are you hungrey.... Miam..... this is our diffrent selections of restaurant page   
+   
+| ++ | + | 4th Team | + | ++ |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| Résa | :bust_in_silhouette: | - | tracking/payement  | - | 
+| Eugenie | :bust_in_silhouette: | - | tracking/payement | - |
+| Bastien| :bust_in_silhouette: | - |tracking/payement | - |   
+   
+![capt4](https://user-images.githubusercontent.com/66479308/86369188-5f5c3100-bc7e-11ea-9f72-bd3b476137bf.jpg)
+* Tracking page
+![capt5](https://user-images.githubusercontent.com/66479308/86369258-74d15b00-bc7e-11ea-90f3-d1f13b65aa36.jpg)  
+* Payement page
+
+**Now cheque out our website**
+
+[bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
+   
+
+
