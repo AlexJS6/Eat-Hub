@@ -1,3 +1,4 @@
+/* index.html CSS*/
 @font-face {
     font-family: Comfortaa;
     src: url(../Font/Comfortaa-Regular.ttf);
@@ -23,3 +24,11 @@ body {
 .my_h2 {
     font-size: 270;
 }
+.bg_pizza {
+    position: absolute;
+    margin-top: -217px;
+    z-index: -1;
+    margin-left: -17px;
+    margin-right: -25px;
+}
+/* index.html css finished*/
