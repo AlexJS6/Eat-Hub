@@ -1,5 +1,3 @@
-# Eat-Hub
-
 # Eat-Hub  
 Type of challenge: **Team work**  
 Duration : **2 days**  
