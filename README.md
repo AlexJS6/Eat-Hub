@@ -50,7 +50,7 @@ correct tag.
 
 # **The New Mission (Team Work)**  
 
-**In first place** :cofee:       
+**In first place** :coffee:       
  we had to assign each member of the team to a task.  
 
 We decided to work in small groups for a better management of time. 
@@ -143,7 +143,7 @@ On this second part we assigned four diffrent groups and each group had to work 
 ![capt5](https://user-images.githubusercontent.com/66479308/86369258-74d15b00-bc7e-11ea-90f3-d1f13b65aa36.jpg)       
 * Payement page  
 
-**Now check out our website**
+**Now check out our website** :beers: :cocktail:
 
 ![bestteam](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)   
    
